@@ -1,7 +1,7 @@
 {
   "name": "pixivd",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pixiv Downloader",
   "main": "pixivd.js",
   "scripts": {
     "start": "node pixivd.js",
