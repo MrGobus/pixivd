@@ -1,0 +1,19 @@
+{
+  "name": "pixivd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pixivd.js",
+  "scripts": {
+    "start": "node pixivd.js",
+    "pixivd": "node pixivd.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixiv-app-api": "^0.10.0",
+    "pixiv-auth-got": "^0.2.0",
+    "pixiv.js": "^0.18.0",
+    "pixiv-img": "^0.3.1",
+    "readline-sync": "^1.4.6"
+  }
+}
