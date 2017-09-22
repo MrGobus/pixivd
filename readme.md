@@ -73,6 +73,6 @@ node pixivd.js user_id
 ```
 
 First time it ask you to enter yore pixiv login and password and store it in user.json file.
-On pixiv.net user_id and iamge_id are not the same, take user id from user image list url.
+On pixiv.net user_id and image_id are not the same, take user id from user image list url.
 All images will be saved in directory named by user id.
-Log file places int ./user_id/log.txt
+Log file places in ./user_id/log.txt
